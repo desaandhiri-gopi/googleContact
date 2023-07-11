@@ -1,0 +1,327 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.logo2{
+position: absolute;
+margin-left: 66px;
+
+margin-top:20px
+
+}
+
+.logo{
+    position: fixed;
+    margin-top: 27.5px;
+    margin-left: 25px;
+}
+
+
+.contact{
+    position: absolute;
+margin-left:120px;
+
+margin-top:20px;
+font-size:25px;
+font-style:inherit ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.searchbox{
+    position: absolute;
+margin-left: 280px;
+margin-top:10px;
+width: 100%;
+background:rgba(130, 127, 120, 0.2);
+display:flex;
+
+border-radius: 15px;
+padding: 10px 20px;
+width:650px;
+height:35px;
+
+
+}
+::placeholder{
+    color: yellow;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 180px;
+
+}
+.searchbox input{
+  
+    margin-left: 280px;
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 25px; 
+    width: 50px;   
+}
+
+
+.round{
+position: absolute;
+    margin-left:300px;
+    margin-top:20px;
+ 
+   
+
+    border: 0;
+    border-radius: 50px;
+    width:30px;
+    height:30px;
+    background: rgb(234, 214, 191);
+    cursor:pointer;
+}
+.searchboxpng{
+    position: absolute;
+    margin-left:307px;
+    margin-top:27px;
+    width: 25px;
+    z-index: 1;
+  
+}
+.createcontact{
+    position: absolute;
+    
+    margin-top:80px;
+    margin-left: 35px;
+    width: 180px;
+    height: 40px;
+    border-radius: 5rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(220, 224, 228);
+}
+.con{
+font-family: 'Courier New', Courier, monospace;
+color: black;
+position: absolute;
+top:12px;
+left: 26px;
+cursor: pointer;
+}
+:hover.con{
+    color: rgb(255, 0, 0);
+}
+.contactimg{
+    position: absolute;
+    
+    margin-top:85px;
+    margin-left:34px;
+}
+
+.oneimgimp{
+    position: absolute;
+    
+    margin-top:155px;
+    margin-left:34px;
+}
+
+.oneconcat{
+    position: absolute;
+    
+    margin-top:155px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.twoimgimp{
+    position: absolute;
+    
+    margin-top:220px;
+    margin-left:34px;
+}
+
+.twoconcat{
+    position: absolute;
+    
+    margin-top:222px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.threeimgimp{
+    position: absolute;
+    
+    margin-top:290px;
+    margin-left:34px;
+}
+
+.threeconcat{
+    position: absolute;
+    
+    margin-top:290px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+:hover.oneconcat{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);
+    
+}
+:hover.twoconcat{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);
+}
+:hover.threeconcat{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);
+}
+.fix{
+    position: absolute;
+    
+    margin-top:350px;
+    margin-left:40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
+
+.mergeandfix{
+    position: absolute;
+    
+    margin-top:400px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+:hover.mergeandfix{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);}
+
+.mergeandfiximg{
+
+    position: absolute;
+    
+    margin-top:400px;
+    margin-left:34px;
+}
+
+
+.import{
+    position: absolute;
+    
+    margin-top:465px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+:hover.import{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);
+}
+.importimg{
+    position: absolute;
+    
+    margin-top:465px;
+    margin-left:34px;
+}
+
+.bin{
+    position: absolute;
+    
+    margin-top:532px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+:hover.bin{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);}
+.binimg{
+    position: absolute;
+    
+    margin-top:528px;
+    margin-left:32px;
+}
+    
+.labels{
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    
+    margin-top:580px;
+    margin-left:40px;
+}
+
+.labelsimg{
+    position: absolute;
+    
+    margin-top:620px;
+    margin-left:34px;
+}
+.importon{
+    position: absolute;
+    
+    margin-top:618px;
+    margin-left:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+}
+.quiz{
+position: absolute;
+margin-left: 192ch;
+
+margin-top:20px
+}
+.setting{      
+    position: absolute;
+    margin-left: 198ch;
+    margin-top:22px
+}
+.pic{
+        
+        position: absolute;
+        margin-left: 209ch;
+        margin-top:10px
+
+    
+}
+
+.dot{
+        
+    position: absolute;
+    margin-left: 203.3ch;
+    margin-top:19px
+
+
+}
+
+:hover.importon{
+    color: blueviolet;
+    border-radius: 10rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 8px 4px;
+    color: rgb(19, 150, 237);}
+
+
+
